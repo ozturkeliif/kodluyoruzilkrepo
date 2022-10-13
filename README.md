@@ -10,3 +10,10 @@ Bu repo Kodluyoruz Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet 
 ``` 
 git clone https://github.com/ozturkeliif/kodluyoruzilkrepo.git 
 ```
+# Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+Linux için:
+```
+cd kodluyoruzilkrepo
+code .
+```
