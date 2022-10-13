@@ -1,7 +1,7 @@
 # kodluyoruz ilk repo
 Bu repo Kodluyoruz Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-
+!(readme.jpg.png)
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
