@@ -7,6 +7,6 @@ Bu repo Kodluyoruz Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet 
 
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-'''
+```
 git clone https://github.com/ozturkeliif/kodluyoruzilkrepo.git
-'''
+```
